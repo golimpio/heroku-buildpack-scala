@@ -16,7 +16,7 @@ ENV_DIR=$3
 
 printf "\n"
 echo "**********************************************"
-echo "*** Modified scala buildpack version 0.1.3 ***"
+echo "*** Modified scala buildpack version 0.1.4 ***"
 echo "**********************************************"
 printf "\n"
 
